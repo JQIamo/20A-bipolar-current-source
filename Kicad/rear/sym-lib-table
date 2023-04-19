@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "rear-rescue")(type "KiCad")(uri "${KIPRJMOD}/rear-rescue.kicad_sym")(options "")(descr ""))
+)

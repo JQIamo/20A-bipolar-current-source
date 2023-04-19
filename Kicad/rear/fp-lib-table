@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name zmyfootprint)(type KiCad)(uri "$(KIPRJMOD)/zmyfootprint.pretty")(options "")(descr ""))
+)
