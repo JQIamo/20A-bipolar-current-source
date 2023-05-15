@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP LM337_SOT223
-D Negative 1A 35V Adjustable Linear Regulator, SOT-223
-K Adjustable Voltage Regulator 1A Negative
-F http://www.ti.com/lit/ds/symlink/lm337-n.pdf
-$ENDCMP
-#
-#End Doc Library
