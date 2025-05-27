@@ -3059,7 +3059,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1uF"
+		(property "Value" "2.2uF"
 			(at 120.015 78.74 0)
 			(effects
 				(font
@@ -3163,7 +3163,7 @@
 				)
 			)
 		)
-		(property "Value" "20"
+		(property "Value" "330"
 			(at 105.41 68.58 90)
 			(effects
 				(font
@@ -3688,7 +3688,7 @@
 				)
 			)
 		)
-		(property "Value" "20"
+		(property "Value" "330"
 			(at 139.7 90.17 90)
 			(effects
 				(font
@@ -4181,7 +4181,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1uF"
+		(property "Value" "2.2uF"
 			(at 151.765 81.28 0)
 			(effects
 				(font
@@ -4349,7 +4349,7 @@
 				)
 			)
 		)
-		(property "Value" "20"
+		(property "Value" "33"
 			(at 120.65 72.39 90)
 			(effects
 				(font
@@ -4425,7 +4425,7 @@
 				)
 			)
 		)
-		(property "Value" "20"
+		(property "Value" "33"
 			(at 152.4 73.66 0)
 			(effects
 				(font
@@ -4833,7 +4833,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1uF"
+		(property "Value" "1.1uF"
 			(at 200.025 25.4 0)
 			(effects
 				(font

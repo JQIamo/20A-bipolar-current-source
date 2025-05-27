@@ -138,7 +138,7 @@
 				)
 			)
 		)
-		(property "Value" "R_Shunt"
+		(property "Value" "0.01 R_Shunt"
 			(at -0.1 3 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -187,6 +187,32 @@
 					(thickness 0.15)
 				)
 				(justify mirror)
+			)
+		)
+		(property "DIGIKEY" "696-PCS-0R01D1-ND"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8e1174ce-09a3-4898-8b45-5a6f4299cf08")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "PARTNO" "PCS-0R01D1"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6caaa42e-086b-4648-8467-dbe6111d14ed")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
 			)
 		)
 		(property ki_fp_filters "R_*Shunt*")
@@ -4735,7 +4761,7 @@
 				)
 			)
 		)
-		(property "DIGIKEY" ""
+		(property "DIGIKEY" "2453710000-ND"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -4748,7 +4774,7 @@
 				)
 			)
 		)
-		(property "PARTNO" ""
+		(property "PARTNO" "2453710000"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5526,11 +5552,26 @@
 				)
 			)
 		)
-		(property "DIGIKEY PARTNO" "IXFN520N075T2-ND"
-			(at 211.505 -64.495 0)
+		(property "DIGIKEY" "IXFN520N075T2-ND"
+			(at 0 0 90)
+			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "74e83db0-facd-4fea-8834-2b8b45385126")
+			(uuid "2f2ac692-18fa-4873-bb4b-96ca919b0bce")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "PARTNO" "IXFN520N075T2"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "7df50cfd-5f98-4e64-8202-b9082cb288aa")
 			(effects
 				(font
 					(size 1 1)
@@ -5712,7 +5753,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "0.1uF"
+		(property "Value" "2.2uF"
 			(at 0 -1.43 0)
 			(layer "B.Fab")
 			(uuid "15fb0b32-98bf-47db-b950-8afb10585d5a")
@@ -5786,6 +5827,34 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "43f17c0c-6027-4c71-896a-91b55ff2b6ab")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "DIGIKEY" "311-1140-1-ND"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "430808f7-5693-4104-a670-45bda1039acb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "PARTNO" "CC0805KRX7R9BB104"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "25d0dde9-92a3-4d3e-b5a6-914787a11f42")
 			(effects
 				(font
 					(size 1 1)
@@ -5959,7 +6028,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "0.1uF"
+		(property "Value" "1.1uF"
 			(at 0 -1.43 90)
 			(layer "B.Fab")
 			(uuid "60ef8a1a-2e86-43d9-b895-4409cdb989b6")
@@ -6033,6 +6102,34 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "dccb31fe-8253-4603-bc9e-97e3e4d4d457")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "DIGIKEY" "311-1140-1-ND"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "02f2904b-5320-4efa-8871-316688b2d760")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "PARTNO" "CC0805KRX7R9BB104"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "e6984571-b15d-4985-962e-127ea890b48b")
 			(effects
 				(font
 					(size 1 1)
@@ -6206,7 +6303,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "0.1uF"
+		(property "Value" "2.2uF"
 			(at 0 -1.43 90)
 			(layer "B.Fab")
 			(uuid "5fc66327-7d86-43d3-93b9-e9cf29cb4bba")
@@ -6280,6 +6377,34 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "c1e42d24-4516-4937-8c59-e316e548f189")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "DIGIKEY" "311-1140-1-ND"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "537a54e9-5280-4c9b-b70f-3517ace6fc35")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "PARTNO" "CC0805KRX7R9BB104"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "f8fc0afe-78ee-400e-a719-d828a281281a")
 			(effects
 				(font
 					(size 1 1)
@@ -6453,7 +6578,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "20"
+		(property "Value" "330"
 			(at 0 -1.43 0)
 			(layer "B.Fab")
 			(uuid "9330beeb-fc35-4cc7-b5de-3bc85f95d8a3")
@@ -6732,12 +6857,26 @@
 				(justify mirror)
 			)
 		)
-		(property "DIGIKEY PARTNO" "IXFN520N075T2-ND"
-			(at 0 0 90)
+		(property "DIGIKEY" "IXFN520N075T2-ND"
+			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "03a0ffef-25af-4e9b-ae6c-09e730ba9026")
+			(uuid "259a2885-57f5-4dde-b3ef-98bbe806cd83")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "PARTNO" "IXFN520N075T2"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "a4c3c021-3fc5-4125-9d56-75608d236f60")
 			(effects
 				(font
 					(size 1 1)
@@ -6923,7 +7062,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "20"
+		(property "Value" "33"
 			(at 0 -1.43 90)
 			(layer "B.Fab")
 			(uuid "92161abb-0136-43ab-9262-c84ec74b1b10")
@@ -7156,7 +7295,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "20"
+		(property "Value" "330"
 			(at 0 -1.43 0)
 			(layer "B.Fab")
 			(uuid "ae73a3cc-66a7-4d02-9fa7-4ed43f8809ba")
@@ -7389,7 +7528,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "20"
+		(property "Value" "33"
 			(at 0 -1.43 0)
 			(layer "B.Fab")
 			(uuid "8418ef46-9bba-460e-9d3c-e7fde72b09af")
@@ -7717,7 +7856,7 @@
 		(uuid "c1dd668d-84d0-477f-b195-6573ef0dd9a0")
 	)
 	(gr_text "+V"
-		(at 220 81.788 90)
+		(at 227.62 81.28 90)
 		(layer "F.SilkS")
 		(uuid "0b7749c7-80b9-4b9e-8abe-595561f96790")
 		(effects
@@ -7730,7 +7869,7 @@
 		)
 	)
 	(gr_text "CL"
-		(at 220 101 90)
+		(at 227.584 90.424 90)
 		(layer "F.SilkS")
 		(uuid "0eaaa241-75a6-412d-bf93-aacb1ee03a8d")
 		(effects
@@ -7743,7 +7882,7 @@
 		)
 	)
 	(gr_text "-V"
-		(at 220 112.776 90)
+		(at 227.62 112.268 90)
 		(layer "F.SilkS")
 		(uuid "218f29a1-976c-4f84-bdad-a234efc5be20")
 		(effects
@@ -7756,7 +7895,7 @@
 		)
 	)
 	(gr_text "CR"
-		(at 220 91 90)
+		(at 228.092 101.6 90)
 		(layer "F.SilkS")
 		(uuid "574f012f-1251-4938-8ec2-1c8681a08d91")
 		(effects
@@ -8183,7 +8322,7 @@
 		(uuid "824b6f90-6acf-4882-bad5-f4435e999fc2")
 	)
 	(via
-		(at 57.670192 35.9156)
+		(at 57.404 37.084)
 		(size 2)
 		(drill 1)
 		(layers "F.Cu" "B.Cu")
