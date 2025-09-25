@@ -1,0 +1,163 @@
+[H-Bridge Parts]
+N-MOS : https://www.digikey.com/en/products/detail/infineon-technologies/IAUT300N10S5N014ATMA1/15776582?s=N4IgTCBcDaICxwBwFoCSBBAqgFQMwAZ8A5ARnwGUBWI-EudbAWXRIGFtkiAREAXQF8gA
+    - Quantity : 4
+    - Manf Part No : IAUT300N10S5N014ATMA1
+    - Digikey Part No : 448-IAUT300N10S5N014ATMA1CT-ND
+    - DataSheet : https://www.infineon.com/dgdl/Infineon-IAUT300N10S5N014-DataSheet-v01_01-EN.pdf?fileId=5546d46277921c32017795c1685a4680
+H-Bridge-Driver : https://www.digikey.com/en/products/detail/renesas-electronics-corporation/HIP4080AIBZT/1034529
+    - Quantity : 1
+    - Manf Part No : HIP4080AIBZT
+    - Digikey Part No : HIP4080AIBZTCT-ND
+    - DataSheet : https://www.renesas.com/en/document/dst/hip4080a-datasheet
+Comparator : https://www.digikey.com/en/products/detail/analog-devices-inc/LT1011CS8-PBF/889214
+    - Quantity : 1
+    - Manf Part No : LT1011CS8#PBF
+    - Digikey Part No : LT1011CS8#PBF-ND
+    - DataSheet : https://www.analog.com/media/en/technical-documentation/data-sheets/LT1011.pdf
+Latch : https://www.digikey.com/en/products/detail/texas-instruments/SN74LVC1G373DCKR/863611'
+    - Quantity : 1
+    - Manf Part No : SN74LVC1G373DCKR
+    - Digikey Part No : 296-18775-1-ND
+    - DataSheet : https://www.ti.com/lit/ds/symlink/sn74lvc1g373.pdf?HQS=dis-dk-null-digikeymode-dsf-pf-null-wwe&ts=1747274681390&ref_url=https%253A%252F%252Fwww.ti.com%252Fgeneral%252Fdocs%252Fsuppproductinfo.tsp%253FdistId%253D10%2526gotoUrl%253Dhttps%253A%252F%252Fwww.ti.com%252Flit%252Fgpn%252Fsn74lvc1g373
+Inverter : https://www.digikey.com/en/products/detail/texas-instruments/SN74AC14DR/376434
+    - Quantity : 1
+    - Manf Part No : SN74AC14DR
+    - Digikey Part No : 296-4300-1-ND
+    - DataSheet : https://www.ti.com/lit/ds/symlink/sn74ac14.pdf?HQS=dis-dk-null-digikeymode-dsf-pf-null-wwe&ts=1747274728530&ref_url=https%253A%252F%252Fwww.ti.com%252Fgeneral%252Fdocs%252Fsuppproductinfo.tsp%253FdistId%253D10%2526gotoUrl%253Dhttps%253A%252F%252Fwww.ti.com%252Flit%252Fgpn%252Fsn74ac14
+DC-DC Converter: https://www.digikey.com/en/products/detail/cui-inc/PDS1-S15-S15-M/5277662
+    - Quantity : 1
+    - Manf Part No : PDS1-S15-S15-M
+    - Digikey Part No : 102-4546-ND
+    - DataSheet : https://www.belfuse.com/media/datasheets/products/power-supplies/PDS1-M.pdf
+Voltage Regulator : https://www.digikey.com/en/products/detail/texas-instruments/lm340mpx-5-0-nopb/367021
+    - Quantity : 1
+    - Manf Part No : LM340MPX-5.0/NOPB
+    - Digikey Part No : LM340MPX-5.0/NOPBCT-ND
+    - DataSheet : https://www.ti.com/lit/ds/symlink/lm7800.pdf
+80V Varistor : https://www.digikey.com/en/products/detail/littelfuse-inc/V20E50P/5290472
+    - Quantity : 1
+    - Manf Part No : V20E50P
+    - Digikey Part No : F6901-ND
+    - DataSheet : https://www.littelfuse.com/assetdocs/littelfuse_varistor_lv_ultramov_datasheet.pdf?assetguid=293ecf97-62b0-4b10-a8a2-65c9fb8c7295
+Rectifier Diodes : https://www.digikey.com/en/products/detail/nexperia-usa-inc/PMEG10020AELRX/5395777?s=N4IgTCBcDaIAoFkCiBxAjABg2DBBJAMgEoAaIAugL5A
+    - Quantity : 2
+    - Manf Part No : PMEG10020AELRX
+    - Digikey Part No : 1727-2283-1-ND
+    - DataSheet : https://assets.nexperia.com/documents/data-sheet/PMEG10020AELR.pdf
+0.047uF Capacitor : https://www.digikey.com/en/products/detail/kemet/C0805C473K2RECAUTO/8646749?s=N4IgTCBcDaIMwE4EFoDCAGAHOgrKgLAOxwDSYASgKKoCCAqgCoDyqDyAcgCIgC6AvkA
+    - Quantity : 2
+    - Manf Part No : C0805C473K2RECAUTO
+    - Digikey Part No : 399-C0805C473K2RECAUTOCT-ND
+    - DataSheet : https://content.kemet.com/datasheets/KEM_C1090_X7R_ESD.pdf
+0.1uF Capacitor : https://www.digikey.com/en/products/detail/yageo/CC0805KRX7R9BB104/302874
+    - Quantity : 11
+    - Manf Part No : CC0805KRX7R9BB104
+    - Digikey Part No : 311-1140-1-ND
+    - DataSheet : https://www.yageo.com/upload/media/product/productsearch/datasheet/mlcc/UPY-GPHC_X7R_6.3V-to-250V_24.pdf
+22uF Capacitor : https://www.digikey.com/en/products/detail/tdk-corporation/C2012X5R1V226M125AC/3951664
+    - Quantity : 4
+    - Manf Part No : C2012X5R1V226M125AC
+    - Digikey Part No : 445-14428-1-ND
+    - DataSheet : https://product.tdk.com/system/files/dam/doc/product/capacitor/ceramic/mlcc/catalog/mlcc_commercial_general_en.pdf
+0 Ohms Resistor : https://www.digikey.com/en/products/detail/te-connectivity-passive-product/CRG0805ZR/2380959
+    - Quantity : 6
+    - Manf Part No : CRG0805ZR
+    - Digikey Part No : A106066CT-ND
+    - DataSheet : https://www.te.com/usa-en/product-1623401-1.datasheet.pdf
+220 Ohms Resistor : https://www.digikey.com/en/products/detail/te-connectivity-passive-product/CRGCQ0805F220R/8576343
+    - Quantity : 1
+    - Manf Part No : CRGCQ0805F220R
+    - Digikey Part No : A129741CT-ND
+    - DataSheet : https://www.te.com/usa-en/product-1-2176341-7.datasheet.pdf
+330 Ohms Resistor : https://www.digikey.com/en/products/detail/te-connectivity-passive-product/CRGCQ0805F330R/8576345
+    - Quantity : 2
+    - Manf Part No : CRGCQ0805F330R
+    - Digikey Part No : A129743CT-ND
+    - DataSheet : https://www.te.com/usa-en/product-1-2176341-9.datasheet.pdf
+10kOhms Resistor : https://www.digikey.com/en/products/detail/te-connectivity-passive-product/CRGCQ0805F10K/8576363
+    - Quantity : 5
+    - Manf Part No : CRGCQ0805F10K
+    - Digikey Part No : A129761CT-ND
+    - DataSheet : https://www.te.com/usa-en/product-3-2176341-7.datasheet.pdf
+100kOhms Resistor : https://www.digikey.com/en/products/detail/te-connectivity-passive-product/CRG0805F100K/2380829
+    - Quantity : 2
+    - Manf Part No : CRG0805F100K
+    - Digikey Part No : A106052CT-ND
+    - DataSheet : https://www.te.com/usa-en/product-1623095-1.datasheet.pdf
+100kOhms Potentiometer : https://www.digikey.com/en/products/detail/bourns-inc/3266Y-1-104LF/2535462?s=N4IgTCBcDaIMxgGyIJoFoCMmAMAWAMgGJoByAIiALoC%2BQA
+    - Quantity : 1
+    - Manf Part No : 3266Y-1-104LF
+    - Digikey Part No : 3266Y-1-104LF-ND
+    - DataSheet : https://www.bourns.com/docs/Product-Datasheets/3266.pdf
+4.7kOhms Ferrite Bead : https://www.digikey.com/en/products/detail/murata-electronics/BLM21HE472SN1L/17184947?s=N4IgTCBcDaICwE4AMBaAQgGQLJgIwAkBROAdjAGUA5XDAYQBUVKAREAXQF8g
+    - Quantity : 5
+    - Manf Part No : BLM21HE472SN1L
+    - Digikey Part No : 490-BLM21HE472SN1LCT-ND
+    - DataSheet : https://www.murata.com/en-us/api/pdfdownloadapi?cate=cgsubChipFerriBead&partno=BLM21HE472SN1%23
+Otocoupler : https://www.digikey.com/en/products/detail/liteon/LTV-817/385836
+    - Quantity : 1
+    - Manf Part No : LTV-817
+    - Digikey Part No : 160-1366-5-ND
+    - DataSheet : https://optoelectronics.liteon.com/upload/download/DS-70-96-0016/LTV-8X7%20series%20%20Rev.S.PDF
+LED : https://www.digikey.com/en/products/detail/kingbright/AA4040R3G2CT-R-10MAT/17969033?s=N4IgjCBcoMwOxVAYygMwIYBsDOBTANCAPZQDaIMArGACxgBMIhVtlCz1NcADExQJyUYANhh8YguuwGUa3MQF1CABwAuUEAGVVAJwCWAOwDmIAL6Fh-RCBSQMOAsTIg6YfvQiE5-GvV5KQNQ1tfWMzQj8EaBs0LDxCEkhyGDc4BhAAoMgtXUMTcxAAWkZo210AV0dE8koM03qgA
+    - Quantity : 2
+    - Manf Part No : AA4040R3G2CT/R-10MAT
+    - Digikey Part No : 754-AA4040R3G2CT/R-10MATCT-ND
+    - DataSheet : https://www.kingbrightusa.com/images/catalog/SPEC/AA4040R3G2CT-R-10MAT.pdf
+Light Pipes : https://www.digikey.com/en/products/detail/dialight/51513020125F/4965188
+    - Quantity : 2
+    - Manf Part No : 51513020125F
+    - Digikey Part No : 350-3733-ND
+    - DataSheet : https://s3-us-west-2.amazonaws.com/catsy.557/Dialight_datasheet_515_VPM_3mm.pdf
+Screw Terminal 0x2 : https://www.digikey.com/en/products/detail/phoenix-contact/1984617/950849?s=N4IgTCBcDa4OxwLQEY5mYgcgERAXQF8g2
+    - Quantity : 1
+    - Manf Part No : 1984617
+    - Digikey Part No : 277-1721-ND
+    - DataSheet : https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/2450/Combicon%20Compact%20Series.pdf
+Screw Terminal 0x3 : https://www.digikey.com/en/products/detail/phoenix-contact/1984620/950850?s=N4IgTCBcDa4OxwLQEY5jIgcgERAXQF8g
+    - Quantity : 1
+    - Manf Part No : 1984620
+    - Digikey Part No : 277-1722-ND
+    - DataSheet : https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/2450/Combicon%20Compact%20Series.pdf
+Terminal BLock 0x4 : https://www.digikey.com/en/products/detail/weidm%C3%BCller/2453710000/9637692?s=N4IgTCBcDa4CwFYDMB2AjABixkBdAvkA
+    - Quantity : 1
+    - Manf Part No : 2453710000
+    - Digikey Part No : 2453710000-ND
+    - DataSheet : https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/565/2453710000_DS.pdf
+BNC Connector Jack, Female Socket  : https://www.digikey.com/en/products/detail/te-connectivity-amp-connectors/5227161-7/811158?s=N4IgTCBcDaIIIGYxgGwAYC0A5AIiAugL5A
+    - Quantity : 1
+    - Manf Part No : 5227161-7
+    - Digikey Part No : A32260-ND
+    - DataSheet : https://www.te.com/usa-en/product-5227161-7.datasheet.pdf
+
+[Relay Board Parts]
+Mechanical Relays : https://www.digikey.com/en/products/detail/cit-relay-and-switch/J115F11CH24VDCS61-5U/12502937?s=N4IgTCBcDa4CxwJwFoBSBGdBWAYpgwgBJhwBqAIvgMoBs6AdFgKrIBy5IAugL5A
+    - Quantity : 2
+    - Manf Part No : J115F11CH24VDCS61.5U
+    - Digikey Part No : 2449-J115F11CH24VDCS61.5U-ND
+    - DataSheet : https://www.citrelay.com/Catalog%20Pages/RelayCatalog/J115F%2050amp.pdf
+Rectifier Diode : https://www.digikey.com/en/products/detail/smc-diode-solutions/1N5400/5993023?s=N4IgTCBcDaIIwDYCsSC0cBySAsAGXAKgEKoYAiIAugL5A
+    - Quantity : 1
+    - Manf Part No : 1N5400
+    - Digikey Part No : 1655-1N5400TB-ND
+    - DataSheet : https://www.smc-diodes.com/propdf/1N5400-1N5408%20N0547%20REV.A.pdf
+470 Ohms 10W Power Resistor : https://www.digikey.com/en/products/detail/te-connectivity-passive-product/SQPW10470RJ/2365771?s=N4IgTCBcDaIIIEYDMB2ALAgHAWgHIBEQBdAXyA
+    - Quantity : 1
+    - Manf Part No : SQPW10470RJ
+    - Digikey Part No : A137418-ND
+    - DataSheet : https://www.te.com/usa-en/product-1-1623795-1.datasheet.pdf
+220 µF Electrolytic Capacitors : https://www.digikey.com/en/products/detail/nichicon/UVP1H221MHD1TO/4328902?s=N4IgTCBcDaICwE4DMBaAjGA7ABjelAcgCIgC6AvkA
+    - Quantity : 1
+    - Manf Part No : UVP1H221MHD1TO
+    - Digikey Part No : 493-12701-1-ND
+    - DataSheet : https://products.nichicon.co.jp/en/pdf/XJA043/e-uvp.pdf
+Screw Terminal 0x2 : https://www.digikey.com/en/products/detail/phoenix-contact/1984617/950849?s=N4IgTCBcDa4OxwLQEY5mYgcgERAXQF8g2
+    - Quantity : 1
+    - Manf Part No : 1984617
+    - Digikey Part No : 277-1721-ND
+    - DataSheet : https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/2450/Combicon%20Compact%20Series.pdf
+Terminal BLock 0x4 : https://www.digikey.com/en/products/detail/weidm%C3%BCller/2453710000/9637692?s=N4IgTCBcDa4CwFYDMB2AjABixkBdAvkA
+    - Quantity : 1
+    - Manf Part No : 2453710000
+    - Digikey Part No : 2453710000-ND
+    - DataSheet : https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/565/2453710000_DS.pdf
